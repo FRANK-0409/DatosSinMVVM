@@ -44,7 +44,7 @@ kotlin {
 }
 
 dependencies {
-    val room_version = "2.6.1"
+    val room_version = "2.8.1"
 
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.activity.compose)
